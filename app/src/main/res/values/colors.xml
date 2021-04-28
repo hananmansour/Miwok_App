@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f8a488</color>
+    <color name="colorPrimaryDark">#5aa897</color>
+    <color name="colorAccent">#5aa897</color>
+
+    <color name="numberscolor">#194350</color>
+    <color name="familyColor">#ff8882</color>
+    <color name="phreasesColor">#ffc2b4</color>
+    <color name="colorsColor">#9DBEB9</color>
+
+</resources>
